@@ -1,4 +1,15 @@
-﻿namespace SharpXDecrypt
+﻿﻿using Microsoft.Win32;
+using System;
+using System.Collections.Generic;
+using System.DirectoryServices;
+using System.IO;
+using System.Linq;
+using System.Security.AccessControl;
+using System.Security.Cryptography;
+using System.Security.Principal;
+using System.Text;
+
+namespace SharpXDecrypt
 {
     class Program
     {
