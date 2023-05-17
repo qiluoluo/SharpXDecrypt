@@ -1,0 +1,20 @@
+F:\Forensics Tools\SharpXDecrypt\C#\obj\Debug\net6.0\C#.csproj.AssemblyReference.cache
+F:\Forensics Tools\SharpXDecrypt\C#\obj\Debug\net6.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+F:\Forensics Tools\SharpXDecrypt\C#\obj\Debug\net6.0\C#.AssemblyInfoInputs.cache
+F:\Forensics Tools\SharpXDecrypt\C#\obj\Debug\net6.0\C#.AssemblyInfo.cs
+F:\Forensics Tools\SharpXDecrypt\C#\obj\Debug\net6.0\C#.csproj.CoreCompileInputs.cache
+F:\Forensics_Tools\SharpXDecrypt\C#\bin\Debug\net6.0\C#.exe
+F:\Forensics_Tools\SharpXDecrypt\C#\bin\Debug\net6.0\C#.deps.json
+F:\Forensics_Tools\SharpXDecrypt\C#\bin\Debug\net6.0\C#.runtimeconfig.json
+F:\Forensics_Tools\SharpXDecrypt\C#\bin\Debug\net6.0\C#.dll
+F:\Forensics_Tools\SharpXDecrypt\C#\bin\Debug\net6.0\C#.pdb
+F:\Forensics_Tools\SharpXDecrypt\C#\obj\Debug\net6.0\C#.csproj.AssemblyReference.cache
+F:\Forensics_Tools\SharpXDecrypt\C#\obj\Debug\net6.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+F:\Forensics_Tools\SharpXDecrypt\C#\obj\Debug\net6.0\C#.AssemblyInfoInputs.cache
+F:\Forensics_Tools\SharpXDecrypt\C#\obj\Debug\net6.0\C#.AssemblyInfo.cs
+F:\Forensics_Tools\SharpXDecrypt\C#\obj\Debug\net6.0\C#.csproj.CoreCompileInputs.cache
+F:\Forensics_Tools\SharpXDecrypt\C#\obj\Debug\net6.0\C#.dll
+F:\Forensics_Tools\SharpXDecrypt\C#\obj\Debug\net6.0\refint\C#.dll
+F:\Forensics_Tools\SharpXDecrypt\C#\obj\Debug\net6.0\C#.pdb
+F:\Forensics_Tools\SharpXDecrypt\C#\obj\Debug\net6.0\C#.genruntimeconfig.cache
+F:\Forensics_Tools\SharpXDecrypt\C#\obj\Debug\net6.0\ref\C#.dll
